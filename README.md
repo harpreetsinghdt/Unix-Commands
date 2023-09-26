@@ -14,7 +14,7 @@ ls
 ls -l
 ```
 
-> List all dirs in list format
+> List all files & dirs including the hidden one in list format
 
 ```
 ls -la
