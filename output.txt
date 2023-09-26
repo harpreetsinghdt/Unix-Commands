@@ -1,0 +1,8 @@
+total 265
+-rw-r--r-- 1 cps 197121  78135 May  3  2022 bootstrap.bundle.min.js
+-rw-r--r-- 1 cps 197121 163978 May  3  2022 bootstrap.min.css
+-rw-r--r-- 1 cps 197121   1670 May  3  2022 index.html
+-rw-r--r-- 1 cps 197121  12530 May  3  2022 logo.png
+-rw-r--r-- 1 cps 197121      0 Sep 26 12:13 names.txt
+-rw-r--r-- 1 cps 197121      0 Sep 26 12:26 output.txt
+-rw-r--r-- 1 cps 197121     11 Sep 26 10:51 test.txt
