@@ -1,15 +1,22 @@
-# Unix Commands
+# Unix Commands (Pipes & Redirection)
 
+### List all files & dirs
 ```
 ls
 ```
+## List all files & dirs in list format
 ```
 ls -l
 ```
+## Change directory 
 ```
 cd <new dir>
 ```
-## Check content of afile
+## Print current directory
+```
+pwd
+```
+## Check content of a file
 ```
 cat file1.txt
 ```
@@ -25,3 +32,8 @@ ls | wc -w
 ```
 cat file1.txt | wc -w
 ```
+## Count words from two files
+```
+cat file1.txt file2.txt | wc -w
+```
+## 
